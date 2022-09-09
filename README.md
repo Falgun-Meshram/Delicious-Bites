@@ -1,2 +1,2 @@
 # Delicious-Bites
-A distributed node.js based restaurant application 
+An nginx distributed node.js based restaurant application 
